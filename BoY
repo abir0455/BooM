@@ -366,9 +366,9 @@ msg_exit() {
 about() {
 	{ clear; banner; echo; }
 	cat <<- EOF
-		${GREEN} Author   ${RED}:  ${ORANGE}TAHMID RAYAT ${RED}[ ${ORANGE}HTR-TECH ${RED}]
-		${GREEN} Github   ${RED}:  ${CYAN}https://github.com/htr-tech
-		${GREEN} Social   ${RED}:  ${CYAN}https://tahmidrayat.is-a.dev
+		${GREEN} Author   ${RED}:  ${ORANGE}AbirT ${RED}[ ${ORANGE}BooM BoY ${RED}]
+		${GREEN} Github   ${RED}:  ${CYAN}https://github.com/abir0455
+		${GREEN} Social   ${RED}:  ${CYAN}https://www.facebook.com/boom.boy.5555
 		${GREEN} Version  ${RED}:  ${ORANGE}${__version__}
 		${WHITE} ${REDBG}Warning:${RESETBG}
 		${CYAN}  This Tool is made for educational purpose 
